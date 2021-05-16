@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="C:\Users\Lanecw\workspace\255AM\images\Hi everyone,.svg" style="max-width: 100%;" alt="Hi Everyone" />
+  <img src="https://github.com/255AM/255AM/blob/main/images/Hi%20everyone%2C.svg" style="max-width: 100%;" alt="Hi Everyone" />
   <br />
   <br />
-  <img height="50" alt="Im Chance. Welcome to my profile" src="C:\Users\Lanecw\workspace\255AM\images\I'm Chance. Welcome to my profile.svg" />
+  <img height="50" alt="Im Chance. Welcome to my profile" src="https://github.com/255AM/255AM/blob/main/images/I'm%20Chance.%20Welcome%20to%20my%20profile.svg" />
   <br />
   <br />
 
