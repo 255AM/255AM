@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://gist.github.com/255AM/<HASH>">
-    <img src="<https://github.com/255AM/255AM/blob/main/images/guestbook.gif>" alt="Click here to sign my guestbook!">
+    <img src="https://github.com/255AM/255AM/blob/main/images/guestbook.gif" alt="Click here to sign my guestbook!">
   </a>
 </p>
 
