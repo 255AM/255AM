@@ -33,7 +33,8 @@
 <br>
 <p align="center">
 Check out my game!
-  <a href="https://github.com/255AM/sonicspot"><img src="https://github.com/255AM/255AM/blob/main/images/spotify.png" >
+  <a href="https://github.com/255AM/sonicspot">
+  <img height='40' src="https://github.com/255AM/255AM/blob/main/images/spotify.png" >
     
     
   </a>
