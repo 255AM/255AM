@@ -26,14 +26,14 @@
 </p>
 <p align="center">
  <ul>
-    <li>I am a <img src="https://github.com/255AM/255AM/blob/main/images/guestbook.gif" alt="Click here to sign my guestbook!"> vet<li>
-    <li>The first code I ever wrote was on an 800, complete with cassette tape storage. It took forever for me to type what seemed like a hundred lines of code. The program made the screen flash colors!<li>
+    <li>I am a <img src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC"> vet<li>
+    <li>The first code I ever wrote was on an <img src="https://github.com/255AM/255AM/blob/main/images/mv_ataricol.gif" alt="Atari"> 800, complete with cassette tape storage. It took forever for me to type what seemed like a hundred lines of code. The program made the screen flash colors!<li>
     <li>I'm really into c# right now<li>
     <li>I am most experienced in Javascript!<li>
-    <li>I am currently searcing for my first software development job!<li>
-    <li>I am currently watching startrek through in chronological order. I am now halfway through the next gen, though Discovery wasnt included in my list when I began this endevour, whoops<li>
-    <li>For fun, I like to take long rides down backroads on my , play and listen to classic country music and drink bourbon. Combining any of these things however, can be hazerdous to your health and is not advised<li>
-    <li>I have awesome boys and an amazing wife<li>
+    <li>I am currently searcing for my first software development job<li>
+    <li>I am currently watching <img src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek"> through in chronological order. I am now halfway through the next gen, though Discovery wasnt included in my list when I began this endevour, whoops<li>
+    <li>I like to take long rides down backroads on my <img src="https://github.com/255AM/255AM/blob/main/images/harley_motorcycle_lights_onoff_lg_wht.gif" alt="Motorcycle">, play and listen to classic country music and drink bourbon. Combining any of those things can be hazerdous to your health and is not advised<li>
+    <li>I have 2 awesome boys and an amazing wife<li>
 </p>
 
 I am a 
