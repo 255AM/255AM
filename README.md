@@ -19,7 +19,7 @@
 <br /> -->
 
 <p align="center">
-  <a href="https://gist.github.com/255AM/<HASH>">
+  <a href="https://gist.github.com/255AM/a186f47ddfac9d5fd687f6ea6d1a250e">
     <img src="https://github.com/255AM/255AM/blob/main/images/guestbook.gif" alt="Click here to sign my guestbook!">
     
   </a>
@@ -33,7 +33,7 @@
     <li>I am currently searching for my first software development job</li>
     <li>I am currently watching <img height="50" src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek"> through in chronological order. I am now halfway through next gen, though Discovery wasnt included in my list when I began this endeavor, whoops</li>
     <li>I like to take long rides down backroads on my <img height="50" src="https://github.com/255AM/255AM/blob/main/images/harley_motorcycle_lights_onoff_lg_wht.gif" alt="Motorcycle">, play and listen to classic country music and drink bourbon. Combining any of those things can be hazardous to your health and is not advised</li>
-    <li>I have 2 awesome boys and the most incredible wife</li>
+    <li>I have 2 awesome boys and am married to an incredible lady</li>
 </p>
 
  
