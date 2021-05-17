@@ -26,7 +26,6 @@
     <li>I am most experienced in Javascript!</li>
     <li>I am currently searching for my first software development job.</li>
     <li>I am currently watching <img height="50" src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek"> through in chronological order. I am now halfway through The Next Gen, though Discovery wasn't included on my list when I began this endeavor. Whoops.</li>
-    <li>I like to take long rides down backroads on my <img height="50" src="https://github.com/255AM/255AM/blob/main/images/harley_motorcycle_lights_onoff_lg_wht.gif" alt="Motorcycle">, play and listen to classic country music and enjoy a good bourbon from time to time. Combining any of those things can be hazardous to your health and is not advised.</li>
     <li>I have 2 awesome boys and I'm married to an incredible lady.</li>
 </p>
 
