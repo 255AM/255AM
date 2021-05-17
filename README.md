@@ -21,54 +21,24 @@
 <p align="center">
   <a href="https://gist.github.com/255AM/<HASH>">
     <img src="https://github.com/255AM/255AM/blob/main/images/guestbook.gif" alt="Click here to sign my guestbook!">
-    <p>Sign my Guestbook!</p>
+    
   </a>
 </p>
+<p align="center">
+ <ul>
+    <li>I am a <img src="https://github.com/255AM/255AM/blob/main/images/guestbook.gif" alt="Click here to sign my guestbook!"> vet<li>
+    <li>The first code I ever wrote was on an 800, complete with cassette tape storage. It took forever for me to type what seemed like a hundred lines of code. The program made the screen flash colors!<li>
+    <li>I'm really into c# right now<li>
+    <li>I am most experienced in Javascript!<li>
+    <li>I am currently searcing for my first software development job!<li>
+    <li>I am currently watching startrek through in chronological order. I am now halfway through the next gen, though Discovery wasnt included in my list when I began this endevour, whoops<li>
+    <li>For fun, I like to take long rides down backroads on my , play and listen to classic country music and drink bourbon. Combining any of these things however, can be hazerdous to your health and is not advised<li>
+    <li>I have awesome boys and an amazing wife<li>
+</p>
 
-<!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Book" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/book.gif"> 
-</a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
-</td>
+I am a 
 
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
-</td>
-</tr> -->
-<!-- </table> -->
 
-<!-- Footer -->
-
-<!-- <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br /> -->
-
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-
-<!-- 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" /> -->
-<!-- "margin-right: whatever;" -->
-<!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" /> -->
 
 </div> 
