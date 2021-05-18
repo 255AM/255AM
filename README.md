@@ -20,7 +20,6 @@
 </p>
 <p align="center">
  <ul>
-    
     <li>The first code I ever wrote was on an <img height="50" src="https://github.com/255AM/255AM/blob/main/images/mv_ataricol.gif" alt="Atari"> 800, complete with cassette tape storage. It took forever for me to type what seemed like a hundred lines of code. The program made the screen flash colors!</li>
     <li>I'm really into c# right now.</li>
     <li>I am most experienced in Javascript!</li>
