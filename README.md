@@ -28,6 +28,7 @@
     <li>I am currently watching <img height="50" src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek"> through in chronological order. I am now halfway through The Next Gen, though Discovery wasn't included on my list when I began this endeavor. Whoops.</li>
     <li>I am a <img height="50" src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC"> veteran.</li>
     <li>I have 2 awesome boys and I'm married to an incredible lady.</li>
+</ul>    
 </p>
 
 <br>
