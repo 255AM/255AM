@@ -24,7 +24,7 @@
     <li>I'm really into c# right now.</li>
     <li>I am most experienced in Javascript.</li>
     <li>I am currently watching <img height="50" src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek"> through in chronological order. Currently on the very slow moving first season of DS9.</li>
-    <li>I am a veteran of and currently developer for the <img height="50" src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC"> </li>
+    <li>I am a veteran of, and currently developer for, the <img height="50" src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC"> </li>
     <li>I have 2 awesome boys and I'm married to an incredible lady.</li>
 </ul>    
 </p>
