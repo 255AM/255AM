@@ -20,9 +20,9 @@
 </p>
 <p align="center">
  <ul>
-    <li><img height="50" src="https://github.com/255AM/255AM/blob/main/images/mv_ataricol.gif" alt="Atari"></li>
-    <li><img height="50" src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek"></li>
-    <li><img height="50" src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC"> </li>
+    <img height="50" src="https://github.com/255AM/255AM/blob/main/images/mv_ataricol.gif" alt="Atari">
+    <img height="50" src="https://github.com/255AM/255AM/blob/main/images/startrek.gif" alt="Startrek">
+    <img height="50" src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC">
     
 </ul>    
 </p>
