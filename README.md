@@ -25,18 +25,8 @@
     <img height="50" src="https://github.com/255AM/255AM/blob/main/images/usmcflagmoving.gif" alt="USMC">
     
 </ul>    
-</p>
 
-<br>
-<br>
-<p align="center">
-Check out my game!
-  <a href="https://github.com/255AM/sonicspot">
-  <img height='40' src="https://github.com/255AM/255AM/blob/main/images/spotify.png" >
-    
-    
-  </a>
-</p>
+
 
 
 </div> 
